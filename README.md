@@ -27,6 +27,13 @@ Output Buffering: The filtered signal passes through a final OPA333 amplifier to
 
 [Altium PCB Schematic](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Altium%20Schematic%20and%20PCB%20Design/Schematic_Prints.pdf)
 
+[Analog Circuit Design](Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Circuit_Design.png)
+
+[LTspice Simulation](Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Output_Waveform.png)
+
+[Altium PCB Schematic](Hardware/Altium%20Schematic%20and%20PCB%20Design/Schematic_Prints.pdf)
+
+
 Software & Digital Processing
 Once the analog signal is cleaned and amplified by our custom circuit, it is passed to the digital domain for processing and visualization.
 
