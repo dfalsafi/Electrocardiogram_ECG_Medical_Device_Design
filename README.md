@@ -1,0 +1,2 @@
+# -Electrocardiogram-ECG-Medical-Device-Design-Analog-Design-Testing-PIC24-Software-
+We designed a group-made ECG (input signal connected using electrodes) device that captures and digitizes the human pulse displayed on a plot. It started as an LTSPICE analog circuit. Once the desired amplified output signal was confirmed we designed a custom PCB and used a PIC24 microcontroller's ADC to plot the real-time heartbeat data in Python.
