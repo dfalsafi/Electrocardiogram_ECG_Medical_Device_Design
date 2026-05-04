@@ -23,7 +23,7 @@ Output Buffering: The filtered signal passes through a final OPA333 amplifier to
 
 [Analog Circuit Design](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Circuit_Design.png)
 
-[LTspice Simulation](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Output_Waveform.png)
+[LTspice Simulation : Output Waveform](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Analog%20Design%20%26%20LTSPICE%20Simulation/EKG_Danny-20260504T213633Z-3-001/Output_Waveform.png)
 
 [Altium PCB Schematic](https://github.com/dfalsafi/Electrocardiogram_ECG_Medical_Device_Design/blob/main/Hardware/Altium%20Schematic%20and%20PCB%20Design/Schematic_Prints.pdf)
 
