@@ -1,0 +1,9 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\dank2\OneDrive\Documents\LTspice\EKG.net
+Start Time: Tue Feb 10 11:13:47 2026
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
